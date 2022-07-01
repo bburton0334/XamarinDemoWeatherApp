@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj": {}
+    "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj": {
+    "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj",
+        "projectUniqueName": "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj",
         "projectName": "TestApplication.Android",
-        "projectPath": "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj",
+        "projectPath": "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication.Android\\TestApplication.Android.csproj",
         "packagesPath": "C:\\Users\\diver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication.Android\\obj\\",
+        "outputPath": "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj": {
-                "projectPath": "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj"
+              "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication\\TestApplication.csproj": {
+                "projectPath": "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication\\TestApplication.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj": {
+    "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication\\TestApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj",
+        "projectUniqueName": "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication\\TestApplication.csproj",
         "projectName": "TestApplication",
-        "projectPath": "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication\\TestApplication.csproj",
+        "projectPath": "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication\\TestApplication.csproj",
         "packagesPath": "C:\\Users\\diver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diver\\Desktop\\TestApplication\\TestApplication\\TestApplication\\obj\\",
+        "outputPath": "C:\\Users\\diver\\Desktop\\XamarinDemoWeatherApp\\TestApplication\\TestApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -97,6 +97,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
