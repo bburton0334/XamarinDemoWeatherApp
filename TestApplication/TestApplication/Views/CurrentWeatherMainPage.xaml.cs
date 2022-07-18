@@ -20,7 +20,7 @@ namespace TestApplication.Views
             GetWeatherInfo();
         }
 
-        private string Location = "France";
+        private string Location = "Spain";
 
         private async void GetWeatherInfo()
         {
